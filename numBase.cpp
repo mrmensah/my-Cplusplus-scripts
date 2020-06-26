@@ -1,5 +1,5 @@
 /**
- *  This code converts numbers in base 10 to any base
+ *  This code converts numbers in any base to any base 2
  **/
 
 #include <iostream>
